@@ -6,3 +6,5 @@
 ## **Panorama 360** 
 #### This is a 360-degree image of the outside of my apartment. This area allowed me to keep my sanity during quarantine, as I was able to walk around and get some sort of excercise.
 <iframe src="https://teliportme.com/embed/1779120?ar=-3&sfc=t&lp=lt&ls=d&lz=50&lo=1" frameBorder="0" scrolling="no" height="500" width="100%" allowFullScreen allow="vr,gyroscope,accelerometer,fullscreen"></iframe>
+### This is a 360-degree image of my kitchen. This is very important to me as while in quarantine, I learned how to cook for myself in fear of ordering takeout that might have been contaminated. I also learned that cooking and baking can be very therapeutic. 
+<iframe src="https://teliportme.com/embed/1779136?ar=-3&sfc=t&lp=lt&ls=d&lz=50&lo=1" frameBorder="0" scrolling="no" height="500" width="100%" allowFullScreen allow="vr,gyroscope,accelerometer,fullscreen"></iframe>
