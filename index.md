@@ -1,5 +1,8 @@
 ## **Oue219.github.io**
 #### My name is Sam and I am a student at Lehigh University majoring in Finance. I have had experience in the real estate, fintech and healthcare industries. I am interested in all things healthcare related and will be working as a banking analyst covering medical devices, biopharmaceuticals and healthcare technology. I am currently taking COMM-165:Data Storytelling.
+[
+![0](https://user-images.githubusercontent.com/67813393/89739352-f078b180-da4d-11ea-8fe5-18c7f8ef66af.jpg)
+](url)
 
 ## **Quarterly U.S. E-Commerce Sales** 
 #### This graph illustrates the U.S. E-Commerce Sales from 2009-2020. With the increase of U.S. GDP, coupled with corporations like Amazon,eBay and Walmart expanding their e-commerce product offerings. 
