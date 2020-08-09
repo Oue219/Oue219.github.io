@@ -4,6 +4,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/sam-eljai-a0a15410b/) 
 
+[Resume](https://github.com/Oue219/Oue219.github.io/files/5048364/Resume.pdf)
+
 
 ## **Quarterly U.S. E-Commerce Sales** 
 #### This graph illustrates the U.S. E-Commerce Sales from 2009-2020. With the increase of U.S. GDP, coupled with corporations like Amazon,eBay and Walmart expanding their e-commerce product offerings. 
