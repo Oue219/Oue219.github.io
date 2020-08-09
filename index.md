@@ -2,7 +2,7 @@
 #### My name is Sam and I am a student at Lehigh University majoring in Finance. I have had experience in the real estate, fintech and healthcare industries. I am interested in all things healthcare related and will be working as a banking analyst covering medical devices, biopharmaceuticals and healthcare technology. I am currently taking COMM-165:Data Storytelling.
 [![0](https://user-images.githubusercontent.com/67813393/89739352-f078b180-da4d-11ea-8fe5-18c7f8ef66af.jpg)](url)
 
-[Linkedin](https://www.linkedin.com/in/sam-eljai-a0a15410b/) 
+[LinkedIn](https://www.linkedin.com/in/sam-eljai-a0a15410b/) 
 
 
 ## **Quarterly U.S. E-Commerce Sales** 
