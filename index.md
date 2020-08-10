@@ -2,7 +2,7 @@
 
 [![0](https://user-images.githubusercontent.com/67813393/89739352-f078b180-da4d-11ea-8fe5-18c7f8ef66af.jpg)](url)
 
-#### My name is Sam and I am a student at Lehigh University majoring in Finance. I have had experience in the real estate, fintech and healthcare industries. I am interested in all things healthcare related and will be working as a banking analyst covering medical devices, biopharmaceuticals and healthcare technology. I am currently taking COMM-165:Data Storytelling.
+#### My name is Sam and I am a student at Lehigh University majoring in Finance. I have had experience in the real estate, fintech and healthcare industries. I am interested in all things healthcare related and will be working as a banking analyst covering medical devices, biopharmaceuticals and healthcare technology. I am currently taking COMM-165:Data Storytelling. Here is my data storytelling portfolio with all the different projects I worked on this semester!
 
 [LinkedIn](https://www.linkedin.com/in/sam-eljai-a0a15410b/) 
 
@@ -23,7 +23,7 @@
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="NBA Tweets Table" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=b573fed56de8439da1451cf86f7522f1&extent=-145.0514,-3.4303,-15.2369,56.7502&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
 
 ## **Touring Queens,NY**
-
+#### This is a tour of Queens,NY-my hometown. Take the tour and travel to different parts of Queens-from Astoria Park to the Citi Field Stadium!
 <iframe width="100%" height="480px" src="https://poly.google.com/view/cELv3B4Fxd5/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
 ## **Tableau Dashboard Project**
@@ -49,7 +49,7 @@
 </script>
 
 ## **Tableau Map**
-
+#### 
 <div class='tableauPlaceholder' id='viz1597027953521' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;45&#47;45GM4T72R&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;45GM4T72R' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;45&#47;45GM4T72R&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>      
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1597027953521');                 
